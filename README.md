@@ -17,11 +17,11 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 
 ## Program:
-/*
+```
 Program to implement the linear regression using gradient descent.
 Developed by: JITHESH PRASAD
 RegisterNumber:  212225040158
-*/
+```
 
 ```
 import numpy as np
@@ -71,7 +71,10 @@ data.head()
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+```
+Predicted value: 193075.97426510364
+```
+![Screenshot](https://github.com/user-attachments/assets/ae06e431-21f7-47fe-967b-eaa88d5bf53f)
 
 
 ## Result:
